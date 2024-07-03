@@ -20,13 +20,14 @@
     justify-self:center;
     background-color: #f0e7e7;
     position: fixed;
-
+    justify-content: right;
 }
 .Header-LogoButton {
     text-align: center;
     font-family: "calibri";
     font-size: 50px;
     color: #39f;
+    margin-right: 14%;
 }
 .Header-Button {
     text-decoration: none;
@@ -40,7 +41,7 @@
     color: #2e2e2e;
 }
 .Header-MainButton{
-    margin-left: 450px;
+    margin-right: 4px;
     margin-bottom: 15px;
 
 }
@@ -147,3 +148,4 @@
     margin: auto;
     color: #2e2e2e;
 }
+
